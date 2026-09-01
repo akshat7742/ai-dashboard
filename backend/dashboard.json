@@ -1,0 +1,21 @@
+{
+  "summary": {
+    "sales": 150000,
+    "revenue": 95000,
+    "orders": 420,
+    "customers": 310
+  },
+  "monthlySales": [
+    { "month": "Jan", "sales": 12000 },
+    { "month": "Feb", "sales": 15000 },
+    { "month": "Mar", "sales": 17000 },
+    { "month": "Apr", "sales": 19000 },
+    { "month": "May", "sales": 21000 }
+  ],
+  "regions": [
+    { "name": "North", "sales": 50000 },
+    { "name": "South", "sales": 30000 },
+    { "name": "East", "sales": 25000 },
+    { "name": "West", "sales": 45000 }
+  ]
+}
